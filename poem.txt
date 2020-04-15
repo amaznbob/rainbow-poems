@@ -6,3 +6,4 @@ blue
 red
 Green
 could be colors of the rainbow
+maybe purple again
